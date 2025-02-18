@@ -97,6 +97,9 @@ public:
     /// </summary>
     bool operator>=(const BigInt& other) const;
 
-    /// <summary> ストリーム出力演算子 </summary>
+    /// 
+    /// <summary> 
+    /// ストリーム出力演算子 
+    /// </summary>
     friend std::ostream& operator<<(std::ostream& os, const BigInt& num);
 };
