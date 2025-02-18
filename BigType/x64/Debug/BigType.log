@@ -1,5 +1,0 @@
-﻿  BigInt.cpp
-D:\C++ Tool\BigType\BigInt.cpp(52,19): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
-  main.cpp
-  コードを生成中...
-  BigType.vcxproj -> D:\C++ Tool\BigType\x64\Debug\BigType.exe
