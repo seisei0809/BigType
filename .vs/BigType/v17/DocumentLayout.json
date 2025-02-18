@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u002B\u002B Tool\\BigType\\",
+  "WorkspaceRootPath": "C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|D:\\C\u002B\u002B Tool\\BigType\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|D:\\C\u002B\u002B Tool\\BigType\\BigInt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\BigInt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|solutionrelative:BigInt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|D:\\C\u002B\u002B Tool\\BigType\\BigInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\BigInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BF151D66-2D28-4824-952F-568B0E63BD38}|BigType.vcxproj|solutionrelative:BigInt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\C\u002B\u002B Tool\\BigType\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\C\u002B\u002B Tool\\BigType\\main.cpp",
+              "ToolTip": "C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-14T00:31:21.137Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BigInt.cpp",
-              "DocumentMoniker": "D:\\C\u002B\u002B Tool\\BigType\\BigInt.cpp",
+              "DocumentMoniker": "C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\BigInt.cpp",
               "RelativeDocumentMoniker": "BigInt.cpp",
-              "ToolTip": "D:\\C\u002B\u002B Tool\\BigType\\BigInt.cpp",
+              "ToolTip": "C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\BigInt.cpp",
               "RelativeToolTip": "BigInt.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAPsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BigInt.h",
-              "DocumentMoniker": "D:\\C\u002B\u002B Tool\\BigType\\BigInt.h",
+              "DocumentMoniker": "C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\BigInt.h",
               "RelativeDocumentMoniker": "BigInt.h",
-              "ToolTip": "D:\\C\u002B\u002B Tool\\BigType\\BigInt.h",
+              "ToolTip": "C:\\Users\\simas\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\GitHubPublicSpacee\\BigType\\BigInt.h",
               "RelativeToolTip": "BigInt.h",
               "ViewState": "AQIAAFcAAAAAAAAAAAAAAGYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",

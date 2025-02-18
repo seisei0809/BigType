@@ -2,9 +2,16 @@
 #include "BigInt.h"
 
 int main() {
+    std::string inputA, inputB;
 
-    BigInt a("1000000000000000000000000000");
-    BigInt b("-1000000000000000000000000000");
+    // ƒ†[ƒU[‚©‚ç“ü—Í‚ğó‚¯æ‚é
+    std::cout << "a ‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢: ";
+    std::cin >> inputA;
+    std::cout << "b ‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢: ";
+    std::cin >> inputB;
+
+    BigInt a(inputA);
+    BigInt b(inputB);
 
     std::cout << "a: " << a << "\n";
     std::cout << "b: " << b << "\n";
